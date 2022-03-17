@@ -1,0 +1,13 @@
+C:\Users\JHW\source\repos\TextRpg\TextRpg\bin\Debug\netcoreapp3.1\TextRpg.exe
+C:\Users\JHW\source\repos\TextRpg\TextRpg\bin\Debug\netcoreapp3.1\TextRpg.deps.json
+C:\Users\JHW\source\repos\TextRpg\TextRpg\bin\Debug\netcoreapp3.1\TextRpg.runtimeconfig.json
+C:\Users\JHW\source\repos\TextRpg\TextRpg\bin\Debug\netcoreapp3.1\TextRpg.runtimeconfig.dev.json
+C:\Users\JHW\source\repos\TextRpg\TextRpg\bin\Debug\netcoreapp3.1\TextRpg.dll
+C:\Users\JHW\source\repos\TextRpg\TextRpg\bin\Debug\netcoreapp3.1\TextRpg.pdb
+C:\Users\JHW\source\repos\TextRpg\TextRpg\obj\Debug\netcoreapp3.1\TextRpg.csproj.AssemblyReference.cache
+C:\Users\JHW\source\repos\TextRpg\TextRpg\obj\Debug\netcoreapp3.1\TextRpg.AssemblyInfoInputs.cache
+C:\Users\JHW\source\repos\TextRpg\TextRpg\obj\Debug\netcoreapp3.1\TextRpg.AssemblyInfo.cs
+C:\Users\JHW\source\repos\TextRpg\TextRpg\obj\Debug\netcoreapp3.1\TextRpg.csproj.CoreCompileInputs.cache
+C:\Users\JHW\source\repos\TextRpg\TextRpg\obj\Debug\netcoreapp3.1\TextRpg.dll
+C:\Users\JHW\source\repos\TextRpg\TextRpg\obj\Debug\netcoreapp3.1\TextRpg.pdb
+C:\Users\JHW\source\repos\TextRpg\TextRpg\obj\Debug\netcoreapp3.1\TextRpg.genruntimeconfig.cache
